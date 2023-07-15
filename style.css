@@ -1,0 +1,58 @@
+body {
+    padding-top: 50px;
+   
+  }
+  
+  header {
+    padding: 100px 0;
+    text-align: center;
+  }
+ 
+
+  header h1 {
+    font-size: 40px;
+    margin-bottom: 30px;
+    
+  }
+  
+  #projects {
+    padding: 100px 0;
+    text-align: center;
+  }
+  
+  #projects h2 {
+    margin-bottom: 50px;
+  }
+  
+  .card {
+    margin-bottom: 30px;
+  }
+  
+  #contact {
+    padding: 100px 0;
+    text-align: center;
+  }
+  
+  #contact h2 {
+    margin-bottom: 50px;
+  }
+  
+  footer {
+    padding: 20px 0;
+  }
+  
+  @keyframes fade-in {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  #education {
+    padding: 100px 0;
+    text-align: center;
+  }
+
+    
+  
